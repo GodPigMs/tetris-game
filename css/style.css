@@ -1,0 +1,55 @@
+.cube
+{
+  padding :13px 13px;
+
+}
+
+table
+{
+  border-collapse: collapse;
+  border: 1px solid #000000;
+}
+td
+{
+  border: 1px solid #000000;
+}
+
+.empty
+{
+  background-color: #ffffff;
+}
+
+.full
+{
+
+}
+
+
+.lightblue
+{
+  background-color: #00ccff;
+}
+.orange
+{
+  background-color: #ff6600;
+}
+.blue
+{
+  background-color: #333399;
+}
+.red
+{
+  background-color: #cc0066;
+}
+.green
+{
+  background-color: #009933;
+}
+.purple
+{
+  background-color: #993399;
+}
+.yellow
+{
+  background-color: #ffcc00;
+}
